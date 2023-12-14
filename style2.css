@@ -1,0 +1,41 @@
+.Div-2{
+    height: 200px;
+    width: 50%;
+    border: 1px solid;
+
+
+    background-color: pink;
+    overflow: visible;
+}
+
+
+/* .container-fluid-2{ */
+    /* width: 80%;
+    margin: 50px auto;
+    clear: both;
+}
+.container-fluid-2::before, .container-fluid-2:after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+.Right{
+    width: 750px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+
+}
+.Left{
+    width: 250px;
+    height: 450px;
+    display: inline-block;
+    float: left;
+    position: sticky;
+    top: 500px;
+} */
+
+
+
