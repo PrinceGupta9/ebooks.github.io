@@ -459,20 +459,13 @@ padding-right: 180px;
 }
 .Contact-Us{
 
-    background-color: 	#f9ffe5;
+    /* background-color: 	#f9ffe5; */
 }
 .Contact-Us1{
     height: 600px;
     /* border: 1px solid; */
 }
-#contact{
-    font-size: 60px;
-    color: blue;
-    margin-left: 10%;
-    text-decoration: underline;
-    text-underline-offset: 9px;
-    text-decoration-thickness: 4px;
-}
+
 .contact-page{
     margin-top: 30px;
     margin-bottom: 30px;
@@ -513,4 +506,7 @@ padding-right: 180px;
 }
 .dwnd{
     color: white;
+}
+.test{
+    margin-top: 130px;
 }
