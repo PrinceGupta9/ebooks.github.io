@@ -1,5 +1,5 @@
 *{
-    border: 1px solid;
+    /* border: 1px solid; */
 }
 body {
     font-family: 'Dancing Script', cursive;
@@ -490,6 +490,13 @@ padding-right: 180px;
 .dwnd{
     color: white;
 }
+.mail{
+    margin-top: -100px;
+    margin-left: 33%;
+}
+.mail span{
+    font-size: 20px;
+}
 
 
 @media(max-width : 990px)
@@ -502,6 +509,15 @@ padding-right: 180px;
    .education{
        /* margin-top: -60% */
    }
+   .mail{
+    margin-top: -40px;
+    margin-left: 100px;
+    
+}
+.mail span{
+    font-size: 25px;
+}
+
 
 
 }
@@ -572,14 +588,24 @@ padding-right: 180px;
     width: 0%;
  } */
  .body{
-    width: 100%;
+    width: 100-%;
  }
  .icon-size{
     font-size: smaller;
+    display: none;
     
  }
  .Nave-Bar{
     margin-left: 10;
  }
+
+ .mail{
+    margin-top: -350px;
+    margin-left: 40px;
+    
+}
+.mail span{
+    font-size: 15px;
+}
  
 }
