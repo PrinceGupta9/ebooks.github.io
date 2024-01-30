@@ -435,7 +435,8 @@ padding-right: 180px;
 }
 .Contact-Us{
 
-    background-color: 	#f9ffe5;
+    /* background-color: 	#f9ffe5; */
+    /* background-color: #d8e2dc; */
 }
 .Contact-Us1{
     height: 600px;
@@ -607,5 +608,9 @@ padding-right: 180px;
 .mail span{
     font-size: 15px;
 }
- 
+
+#us h1{
+    color: blue;
 }
+
+
