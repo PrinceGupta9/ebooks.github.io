@@ -1,25 +1,23 @@
-*{
-    /* border: 1px solid; */
-}
+ 
 body {
     font-family: 'Dancing Script', cursive;
     font-family: 'Ubuntu', sans-serif;
     height: 100%;
     width: 100%;
-    /* border: 1px solid black; */
+    
 
 }
-/* body {width: auto!important; overflow-x: hidden!important}  */
+
 
 .Home-Left-Blue {
     height: 600px;
     width: 50%;
-    /* border: 1px solid; */
+    
     background-color: aliceblue;
 }
 
 .Home-Middle-Name {
-    /* border: 1px solid; */
+   
     height: 600px;
     width: 60%;
     margin-top: -600px;
@@ -28,7 +26,7 @@ body {
 }
 
 .Nave-Bar {
-    /* border: 1px solid; */
+    
     margin-left: 20%;
 
     margin-top: 2%;
@@ -38,7 +36,7 @@ body {
 
 }
 .div-1{
-  /* border: 2px solid;s */
+  
   font-size: 1.2em;
     
 
@@ -47,7 +45,7 @@ body {
     margin-left: 12%;
 }
 .div-2{
-    /* border: 1px solid; */
+   
     display: flex;
     justify-content: space-between;
     font-size: 1.2em;
@@ -71,20 +69,13 @@ body {
     margin-top: -2%;
 }
 
-/* navebar ka A tag */
+
 .Navigation-Bar a{
     text-decoration: none;
     color: black !important;
     padding: 5px;
 }
-/* .Navigation-Bar a:hover{
-    transform: translateY(-0.25em);
-    transition: all 0.5s;
 
-  
-   
-
-} */
 a{
     position: relative;
     text-decoration: none;
@@ -110,7 +101,7 @@ a{
 
     background-color: aliceblue;
    height: 80px;
-    /* border: 1px solid; */
+    
     display: flex;
     align-items: center;
     display: flex;
@@ -153,7 +144,7 @@ Sticky Menu  */
 
 }
 .Experties-Div{
-    /* border: 1px solid; */
+   
     margin-top: 50px;
     height:auto
 }
@@ -162,7 +153,7 @@ Sticky Menu  */
 }
 .education{
     margin-top: 80px;
-    /* border: 1px solid; */
+    
     height: auto;
 }
 .education h2{
@@ -186,7 +177,7 @@ Sticky Menu  */
 }
 
 .Left{
- /* border: 1px solid; */
+
 width: 250px;
 height: 450px;
 display: inline-block;
@@ -210,7 +201,7 @@ padding-right: 180px;
    margin-left: 80%;
  }
 
- /* Modal */
+
 
  .modal-dialog{
     margin: 0;
@@ -301,7 +292,7 @@ padding-right: 180px;
 
     .About-Head{
         margin-top: 60px;
-        /* border: 1px solid; */
+        
     }
 
     .About span{
@@ -320,7 +311,7 @@ padding-right: 180px;
     }
 
     .About-Bottom{
-        /* border: 1px solid ; */
+       
         margin-top: 30px;
         height: fit-content;
     }
@@ -337,7 +328,7 @@ padding-right: 180px;
     }
     
     .About-Img{
-        /* border: 1px solid; */
+        
         height: 600px;
     }
     .About-Img img{
@@ -347,19 +338,19 @@ padding-right: 180px;
         
     }
     .About-Head{
-        /* border: 1px solid; */
+        
     }
     .About-Mid{
-        /* border: 1px solid; */
+        
         height: fit-content;
     }
     .About{
         padding-left: 5%;
     }
     .Contact-Us{
-        /* height: 1000px; */
+        
         margin-top: 140px;
-        /* border: 1px solid; */
+       
     }
    
    
@@ -390,10 +381,7 @@ padding-right: 180px;
             color: red;
    }
 
-/* .sub-name{
-    margin-left: 150px;
-    margin-right: 10px;
-} */
+
 
 .maintain{
     margin-top: 50px;
@@ -435,12 +423,11 @@ padding-right: 180px;
 }
 .Contact-Us{
 
-    /* background-color: 	#f9ffe5; */
-    /* background-color: #d8e2dc; */
+    
 }
 .Contact-Us1{
     height: 600px;
-    /* border: 1px solid; */
+    
 }
 #contact{
     font-size: 60px;
@@ -508,7 +495,7 @@ padding-right: 180px;
       opacity: 0;
    }
    .education{
-       /* margin-top: -60% */
+      
    }
    .mail{
     margin-top: -40px;
@@ -578,16 +565,13 @@ padding-right: 180px;
   }
 
   .Home-Middle-Name {
-    /* border: 1px solid; */
+   
     height: 600px;
     width: 50%;
     margin-top: -600px;
-    /* margin-left: auto;
-    margin-right: auto; */
+   
 }
- /* .overall{
-    width: 0%;
- } */
+
  .body{
     width: 100-%;
  }
